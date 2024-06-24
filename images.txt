@@ -3,16 +3,27 @@
 # xhofe/alist:latest
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
-# :latest不要
 
+# 基础镜像
 nginx:latest
+wordpress:latest
+mysql:latest
 
 # FRPC / FRPS
-# snowdreamtech/frpc
-# snowdreamtech/frps
+snowdreamtech/frpc:latest
+snowdreamtech/frps:latest
 
 # Tachidesk的预览版本镜像
-# ghcr.io/suwayomi/tachidesk
+ghcr.io/suwayomi/tachidesk:latest
 
-# 使用Flaresolverr的最新版本镜像
-# ghcr.io/flaresolverr/flaresolverr
+# Flaresolverr 最新版本镜像
+ghcr.io/flaresolverr/flaresolverr:latest
+
+# v2rayA https://hub.docker.com/u/mzz2017
+mzz2017/v2raya:latest
+mzz2017/v2raya-gui:latest
+
+# bili-sync https://hub.docker.com/r/amtoaer
+amtoaer/bili-sync:latest
+amtoaer/bili-sync-rs:latest
+
