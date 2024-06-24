@@ -5,7 +5,7 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 # :latest不要
 
-nginx
+nginx:latest
 
 # FRPC / FRPS
 # snowdreamtech/frpc
