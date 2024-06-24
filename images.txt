@@ -1,6 +1,5 @@
 # 支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-# xhofe/alist:latest
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
@@ -9,21 +8,22 @@ nginx:latest
 wordpress:latest
 mysql:latest
 
-# FRPC / FRPS
+# FRPC / FRPS 最新版
 snowdreamtech/frpc:latest
 snowdreamtech/frps:latest
 
-# Tachidesk的预览版本镜像
+# Tachidesk 最新版 / 预览版 / 稳定版 https://github.com/Suwayomi/docker-tachidesk
 ghcr.io/suwayomi/tachidesk:latest
+ghcr.io/suwayomi/tachidesk:stable
+ghcr.io/suwayomi/tachidesk:preview
 
-# Flaresolverr 最新版本镜像
+# Flaresolverr 最新版
 ghcr.io/flaresolverr/flaresolverr:latest
 
-# v2rayA https://hub.docker.com/u/mzz2017
+# v2rayA 最新版 https://hub.docker.com/u/mzz2017
 mzz2017/v2raya:latest
 mzz2017/v2raya-gui:latest
 
-# bili-sync https://hub.docker.com/r/amtoaer
+# bili-sync 最新版 https://hub.docker.com/r/amtoaer
 amtoaer/bili-sync:latest
 amtoaer/bili-sync-rs:latest
-
