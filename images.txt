@@ -5,12 +5,12 @@
 # 支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 
-# Tachidesk的预览版本镜像
-ghcr.io/suwayomi/tachidesk:latest
-
-# 使用Flaresolverr的最新版本镜像
-ghcr.io/flaresolverr/flaresolverr:latest
-
 # FRPC / FRPS
 snowdreamtech/frpc:latest
 snowdreamtech/frps:latest
+
+# Tachidesk的预览版本镜像
+# ghcr.io/suwayomi/tachidesk:latest
+
+# 使用Flaresolverr的最新版本镜像
+ghcr.io/flaresolverr/flaresolverr:latest
