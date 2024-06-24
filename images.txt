@@ -1,4 +1,3 @@
-# nginx
 # 支持私库
 # k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 # xhofe/alist:latest
@@ -6,9 +5,11 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 # :latest不要
 
+nginx
+
 # FRPC / FRPS
-snowdreamtech/frpc
-snowdreamtech/frps
+# snowdreamtech/frpc
+# snowdreamtech/frps
 
 # Tachidesk的预览版本镜像
 # ghcr.io/suwayomi/tachidesk
