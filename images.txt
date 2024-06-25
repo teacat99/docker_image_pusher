@@ -16,7 +16,6 @@ snowdreamtech/frps:latest
 ghcr.io/suwayomi/tachidesk:latest
 ghcr.io/suwayomi/tachidesk:stable
 ghcr.io/suwayomi/tachidesk:preview
-
 # Flaresolverr 最新版
 ghcr.io/flaresolverr/flaresolverr:latest
 
@@ -27,3 +26,13 @@ mzz2017/v2raya-gui:latest
 # bili-sync 最新版 https://hub.docker.com/r/amtoaer
 amtoaer/bili-sync:latest
 amtoaer/bili-sync-rs:latest
+
+# 1panel https://1panel.cn
+1panel/openresty:1.21.4.3-3-2-focal
+halohub/halo:2.16.4
+halohub/halo-pro:2.16.4
+snowdreamtech/frps:0.58.0
+louislam/uptime-kuma:1.23.13
+
+
+
