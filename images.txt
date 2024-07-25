@@ -25,7 +25,9 @@ mzz2017/v2raya-gui:latest
 
 # bili-sync 最新版 https://hub.docker.com/r/amtoaer
 amtoaer/bili-sync:latest
+amtoaer/bili-sync:1.1.9
 amtoaer/bili-sync-rs:latest
+amtoaer/bili-sync-rs:v2.1.2
 
 # 1panel https://1panel.cn
 1panel/openresty:1.21.4.3-3-2-focal
