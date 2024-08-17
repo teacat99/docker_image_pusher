@@ -31,6 +31,7 @@ amtoaer/bili-sync-rs:v2.1.2
 
 # 1panel https://1panel.cn
 1panel/openresty:1.21.4.3-3-2-focal
+1panel/openresty:1.21.4.3-3-3-focal
 halohub/halo-pro:2.16.4
 halohub/halo-pro:2.17.2
 snowdreamtech/frps:0.58.0
