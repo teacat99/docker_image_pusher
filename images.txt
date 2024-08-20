@@ -7,6 +7,10 @@
 nginx:latest
 wordpress:latest
 mysql:latest
+couchdb:latest
+
+# obsidian-livesync
+couchdb:3.3
 
 # FRPC / FRPS 最新版
 snowdreamtech/frps:0.59.0
